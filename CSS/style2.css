@@ -1,0 +1,42 @@
+*{
+    padding:0;
+    margin:0;
+    box-sizing: border-box;
+}
+.page{
+    margin:0px auto;
+    width:80%;
+    length:auto;
+    border:1px solid black;
+}
+.navbar{
+    width:100%;
+    height:50px;
+    background-color:rgb(183, 255, 248) ;
+}
+.navbar .title
+{
+    padding:10px;
+    float:left;
+}
+.title p{
+    font-size: 20px;
+
+}
+.navbar .menu{
+    float:right;
+    padding:10px;
+}
+.menu a{
+    padding-left: 30px;
+    text-decoration: none;
+    color:red;
+}
+.image{
+    width:100%;
+    height:200px;
+}
+.image img{
+    width:100%;
+    height:100%;
+}
